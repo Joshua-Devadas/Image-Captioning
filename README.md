@@ -20,16 +20,18 @@ Neural network architecture to automatically generate captions from images.
 
 Microsoft Common Objects in COntext (MS COCO) dataset is used to train the network
 
-##Instructions
+## Instructions
 
 There are four series of jupyter notebook
 
+'''
 0_Dataset.ipynb
 1_Preliminaries.ipynb
 2_Training.ipynb
 3_Inference.ipynb
+'''
 
-*You MUST use GPU for this project*
+**You MUST use GPU for this project**
 
 A completely trained model is expected to take between 5-12 hours to train well on a GPU; it is suggested that you look at early patterns in loss (what happens in the first hour or so of training) as you make changes to your model, so that you only have to spend this large amount of time training your final model.
 
