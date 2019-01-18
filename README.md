@@ -24,10 +24,10 @@ Microsoft Common Objects in COntext (MS COCO) dataset is used to train the netwo
 
 There are four series of jupyter notebook
 
-*0_Dataset.ipynb
-*1_Preliminaries.ipynb
-*2_Training.ipynb
-*3_Inference.ipynb
+* 0_Dataset.ipynb
+* 1_Preliminaries.ipynb
+* 2_Training.ipynb
+* 3_Inference.ipynb
 
 
 **You MUST use GPU for this project**
